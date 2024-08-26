@@ -329,3 +329,7 @@ button:disabled {
   background: #ffeeee;
   color: #d66a6a;
 }
+.accepted {
+  background: #ffeeee;
+  color:#008017;
+}
